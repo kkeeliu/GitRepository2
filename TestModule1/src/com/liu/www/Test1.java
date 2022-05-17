@@ -9,4 +9,5 @@ package com.liu.www;
 public class Test1 {
     private  String username;
     private  Integer age;
+    private  String address;
 }
